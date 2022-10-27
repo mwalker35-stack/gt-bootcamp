@@ -5,7 +5,7 @@
 -To give the user information about services available
 -As a business front for Horiseon
 -Refractor Code
-
+-introduce article, section, aside, footer, header, and combined classes in CSS
 ## Instalation
 
 N/A
